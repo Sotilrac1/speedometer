@@ -1,0 +1,20 @@
+
+.box-speedometer {
+    padding: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: white;
+    border: 10px solid black;         
+}
+
+.box-with-speed{
+    background-color: white;
+    color: black;
+    font-size: 300px;
+    text-align: center;
+}
+
+.speed-display{
+    font-size: large;
+}
+
