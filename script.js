@@ -8,5 +8,5 @@ function getLocation() {
   }
 }
 function showPosition(position) {
-  x.innerHTML = "" + position.coords.altitude
+  x.innerHTML = "" + position.coords.speed
 }
